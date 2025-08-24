@@ -44,7 +44,7 @@ You can download the KV-cache-optimized architecture using optimum-cli, or easil
 
 Experience qwen2.5-0.5b-unity in action! Check out our demo showcasing the model's capabilities:
 
-[![Piper Unity](https://img.youtube.com/vi/BHbWHjJmgU8/0.jpg)](https://www.youtube.com/watch?v=BHbWHjJmgU8)
+[![Qwen2.5 0.5B Instruct Unity](https://img.youtube.com/vi/BHbWHjJmgU8/0.jpg)](https://www.youtube.com/watch?v=BHbWHjJmgU8)
 
 ## Links
 
